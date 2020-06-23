@@ -1,1 +1,9 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+# Hier entsteht demnächst eine Webseite zu meinem Lieblingscharakter!
+
+## Charakter
+
+1. Name
+
+2. Skills
+
+...
