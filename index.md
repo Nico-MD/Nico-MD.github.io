@@ -12,3 +12,6 @@ Yoda war ein Jedi-Meister des Alten Jedi-Ordens und führendes Mitglied im Hohen
 * Punkt 8
 * Punkt 9
 * Punkt 10
+
+Yoda sagte
+> Gut aussehen ich tu!
